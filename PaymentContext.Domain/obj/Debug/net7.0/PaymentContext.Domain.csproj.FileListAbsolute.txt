@@ -1,0 +1,12 @@
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.deps.json
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.dll
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.pdb
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfo.cs
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.dll
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\refint\PaymentContext.Domain.dll
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.pdb
+D:\dev\projects\ws-study\CsharpDotNet\PaymentContext\PaymentContext.Domain\obj\Debug\net7.0\ref\PaymentContext.Domain.dll
