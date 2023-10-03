@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2C45HttZc0/CngF9TnxQXXnthATCDEnkKI1xMAmOa3qzjo8XdcMKQLxSa+wDRRbpAKVNenPcU2Y0M59+T3P7A==",
+  "dgSpecHash": "g0Ivcf8seO9POKjIf/ZAfMDxCvYTmCyhCJVofNzyGt/NjjpF3iRMewbZk2NjrqtREERc5GI+Y8lodiukZO4u7A==",
   "success": true,
-  "projectFilePath": "D:\\dev\\projects\\ws-study\\CsharpDotNet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "projectFilePath": "d:\\dev\\projects\\ws-study\\CsharpDotNet\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
